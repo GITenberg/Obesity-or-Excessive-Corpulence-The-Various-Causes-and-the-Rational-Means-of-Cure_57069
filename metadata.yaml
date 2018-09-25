@@ -1,11 +1,14 @@
 _repo: Obesity-or-Excessive-Corpulence-The-Various-Causes-and-the-Rational-Means-of-Cure_57069
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator: &id001
     agent_name: Barrett, Michael
     birthdate: 1848
     gutenberg_agent_id: '7397'
     url: http://www.gutenberg.org/2009/agents/7397
+covers:
+- cover_type: archival
+  image_path: 57069-h/images/cover.jpg
 creator:
   author:
     agent_name: Dancel, François
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49178
   editor: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57069#Obesity-or-Excessive-Corpulence-The-Various-Causes-and-the-Rational-Means-of-Cure
 gutenberg_issued: '2018-04-29'
 gutenberg_type: Text
 identifiers:
